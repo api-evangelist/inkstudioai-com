@@ -64,23 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ink Studio AI is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Ink Studio AI provides a free AI-powered tattoo generator that creates custom tattoo designs based on user prompts. Users describe their tattoo idea, select a style such as minimal, Japanese, black‑and‑gray, traditional, or watercolor, and receive a downloadable concept to discuss with their artist. The platform offers one free generation after signing in and showcases over 39,000 tattoos created by tens of thousands of creators. It includes tools for image‑to‑tattoo conversion, style transfer, and a gallery of tattoo ideas. Ink Studio AI aims to simplify the design process for both artists and clients with AI assistance.
 
-**Areas:** Company
+**Areas:** Company · AI · Tattoo · Design · Generator
 
 ## Ink Studio AI on APIs.io
 
 Everything profiled for Ink Studio AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/inkstudioai-com/](https://apis.io/providers/inkstudioai-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Ink Studio AI API](https://apis.io/apis/inkstudioai-com/ink-studio-ai-api/) — Generate AI tattoo designs and search a public tattoo gallery.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Inkstudioai Com Authentication](https://apis.io/security/inkstudioai-com/inkstudioai-com-authentication/)
+- [Inkstudioai Com Domain Security](https://apis.io/security/inkstudioai-com/inkstudioai-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Inkstudioai Com Plans Pricing](https://apis.io/plans/inkstudioai-com/inkstudioai-com-plans-pricing/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://inkstudioai.com)
+- [API reference](https://inkstudioai.com/developers/api-reference)
+- [Pricing](https://inkstudioai.com/pricing)
+- [Blog](https://inkstudioai.com/blog)
+- [Terms of service](https://inkstudioai.com/legal/tos)
+- [Privacy policy](https://inkstudioai.com/legal/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/inkstudioai-com/](https://apis.io/providers/inkstudioai-com/).
+**Kin Score 35.0** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 30.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 73.2 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/inkstudioai-com/](https://apis.io/providers/inkstudioai-com/).
 
 ## How this profile is made
 
